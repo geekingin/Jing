@@ -1,0 +1,3 @@
+[submodule "sub/apps"]
+	path = sub/apps
+	url = git@github.com:geekingin/chrome-sticky-note.git
